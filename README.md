@@ -26,7 +26,7 @@ git init
 git add .
 git commit -m "🐐 Goat Count AI inicial"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/goat-count-ai.git
+git remote add origin https://github.com/TU_USUARIO/ai-goat-counter.git
 git push -u origin main
 ```
 
@@ -34,7 +34,7 @@ git push -u origin main
 
 1. Ve a [render.com](https://render.com) → **Sign up** con GitHub
 2. Dashboard → **New +** → **Web Service**
-3. Conecta tu repositorio `goat-count-ai`
+3. Conecta tu repositorio `ai-goat-counter`
 4. Render detecta automáticamente el `render.yaml`
 
 ### 3. Configurar variables de entorno en Render
