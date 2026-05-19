@@ -52,7 +52,7 @@ En el dashboard de tu servicio → **Environment**:
 ### 4. Deploy
 
 Render construye y despliega automáticamente.
-La URL de tu app será: `https://goat-count-ai.onrender.com`
+La URL de tu app será: `https://ai-goat-counter.onrender.com/`
 
 ---
 
