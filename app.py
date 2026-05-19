@@ -10,7 +10,7 @@ from PIL import Image
 app = Flask(__name__)
 CORS(app)
 
-ROBOFLOW_API_KEY = os.environ.get("ROBOFLOW_API_KEY", "")
+ROBOFLOW_API_KEY = os.environ.get("ROBOFLOW_API_KEY", "yLyP7XiQ0zdnnFhsNwZ7")
 MODEL_ID         = os.environ.get("ROBOFLOW_MODEL", "goat-looker/6")
 API_URL          = f"https://serverless.roboflow.com/{MODEL_ID}"
 
